@@ -34,9 +34,12 @@ Todas las naves tienen que ser capaces de entender el mensaje `prepararViaje()`.
 - las _naves de combate_ se ponen visibles, repliegan sus misiles, aceleran 15000 kms/seg, y emiten el mensaje "Saliendo en misión".
 
 
+
 ## Combustible
 Agregar al modelo el _combustible_ de cada nave, medido en litros. Se tiene que poder cargar y descargar combustible.  
 Para **todas** las naves, agregar como acción adicional en la preparación de un viaje, cargar 30000 litros, y acelerar 5000 kms/seg (para las naves de combate, se acelera 5000 y luego otros 15000, total 20000).
+
+
 
 
 ## Tranquilidad, y dos variantes nuevas de nave
